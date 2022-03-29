@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Default
+  TOSKA_AGENT
 
 steps:
 - script: echo Hello, world!
