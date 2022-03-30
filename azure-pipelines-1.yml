@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  Naveen
+  TXHYD_LAP_072
 
 steps:
 - script: echo Hello, world!
